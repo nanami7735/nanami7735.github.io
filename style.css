@@ -1,0 +1,21 @@
+h1 {
+    color: ghostwhite;
+    font-family : serif;
+    font-size : 50px;
+    background-color:rgb(36, 32, 32);
+}
+body {
+     background-color : lightsteelblue;
+    
+}
+h2 {
+    font-family : serif;
+    font-size: 30px;
+}
+p {
+    font-family : cursive;
+    font-size: 17px;
+}
+h3 {
+    font-family : serif;
+}
