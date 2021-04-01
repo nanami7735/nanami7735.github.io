@@ -1,15 +1,19 @@
-h1 {
-    color: ghostwhite;
-    font-family : serif;
-    font-size : 50px;
-    background-color:rgb(36, 32, 32);
-}
+
 body {
      margin : 0;
-     padding : 20px;
      background-color : lightsteelblue;
-    
 }
+     
+.header-logo {
+    background-color: rgb(36, 32, 32);
+    color: ghostwhite;
+    font-family : serif;
+    font-weight: 600;
+    font-size : 50px;
+    padding :0px;
+    padding-left: 240px;
+}
+    
 h2 {
     font-family : serif;
     font-size: 30px;
@@ -20,4 +24,9 @@ p {
 }
 h3 {
     font-family : serif;
+}
+.main {
+    padding : 60px;
+    width: 1000px;
+    margin : 0 auto;
 }
